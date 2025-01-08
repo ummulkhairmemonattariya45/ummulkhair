@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ummulkhair</h1>
 <h3 align="center">A passionate student of frontend developement from Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ummulkhairmemonattariya45&label=Profile%20views&color=0e75b6&style=flat" alt="ummulkhairmemonattariya45" /> </p>
+<p align="left"> <img src="![Uploading program image.jpg…]()
+" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ummulkhairmemonattariya45" alt="ummulkhairmemonattariya45" /></a> </p>
 
@@ -24,4 +25,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ummulkhairmemonattariya45&show_icons=true&locale=en" alt="ummulkhairmemonattariya45" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ummulkhairmemonattariya45&" alt="ummulkhairmemonattariya45" /></p>
+
